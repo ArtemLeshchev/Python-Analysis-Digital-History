@@ -5,3 +5,6 @@ In this repo you will find some analysis based on materials from a DH's public i
 
 Lang is Python.
 Lib are Pandas, NumPy, Seaborn, Matplotlib
+
+In the file "DH_The most commented posts" I analyse the outliers and try to understand what categories are the most 'commented' among the outliers.
+In the final, we will see that the most commented categories in outliers either in the whole population are "Новейшее время", "Новое время" and "Великая отечественная война".
