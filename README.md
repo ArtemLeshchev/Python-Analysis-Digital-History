@@ -20,6 +20,9 @@ The resut: we will see that the most commented categories are 'Новейшее 
 As the title says, in this file I perform Pearson correlation analysis (measuring linear correlation between two sets of data). 
 The purpose: to detect the relationship and dependensies between variables.
 
+* **DH_Pandas_training.xlsx**
+
+Practising Pandas according with the docs https://pandas.pydata.org/docs/index.html.
 
 
 .
